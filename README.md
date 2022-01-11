@@ -3,7 +3,7 @@ This banking app is created to complete the task#2 of Graduate Rotational Intern
 
 By using this app,User can see their bank details and can transfer money to other user's. Then, User can able see their transactions history.
 
-## Screenshots
+
 <p float="left">
    
    <img src="https://github.com/Umeshekh/Banking-System-App/blob/Screenshot/app/src/main/res/drawable/screenshot3.jpeg" height="380" width="200" alt="Screen shot 1" />
@@ -13,5 +13,7 @@ By using this app,User can see their bank details and can transfer money to othe
  
 </p>
 
-<a href="https://www.youtube.com/watch?v=vFiT5NkuDnk" target="_blank">Google</a>
+## Youtube Link
+ 
+<a href="https://www.youtube.com/watch?v=vFiT5NkuDnk" target="_blank">Click Here to see working video </a>
 
