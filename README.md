@@ -16,5 +16,5 @@ By using this app,User can see their bank details and can transfer money to othe
 
 ## Youtube Link
  
-<a href="https://www.youtube.com/watch?v=vFiT5NkuDnk" target="_blank">Click Here to see working video </a>
+<a href="https://www.youtube.com/watch?v=vFiT5NkuDnk/" target="_blank">Click Here to see working video </a>
 
